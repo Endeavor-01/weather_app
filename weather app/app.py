@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'ed286ec1436597cf3a0ec3067d5da23c'
+api_key = 'your_api_key'
 
 # Prompt the user to enter the city name until 'exit' is entered
 while True:
